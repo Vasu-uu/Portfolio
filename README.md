@@ -1,4 +1,4 @@
-# 🧱 **Vasudev V – Personal Portfolio**
+# **Vasudev V – Personal Portfolio**
 
 Welcome to the **Minecraft-inspired** version of my personal portfolio website!  
 Built entirely with **HTML**, **CSS**, and **JavaScript**, this site highlights my journey, skills, and projects in **Blockchain**, **AI/ML**, and **Web Development** — all wrapped in a fun pixelated theme.
@@ -7,7 +7,7 @@ Built entirely with **HTML**, **CSS**, and **JavaScript**, this site highlights 
 
 ## 🖼️ **UI Screenshot**
 
-![Portfolio Screenshot](./UI.png)
+![Portfolio Screenshot](assets/UI.png)
 
 ---
 
